@@ -1,0 +1,120 @@
+---
+title: "Practical_1_Introduction_to_R/prac1_exercises.qmd."
+author: "Lizzie Rushworth"
+---
+```{r}
+sqrt(9)
+
+```
+
+```{r}
+round(3.14159)
+```
+
+
+
+```{r}
+round(3.14159, digits = 2)
+```
+
+```{r}
+print(seq(1, 10, 2))
+```
+
+```{r}
+print(seq(5, 15, 5))
+```
+
+```{r}
+print(seq(by = 2, from = 1, to = 10))
+```
+
+```{r}
+print(seq(by = 5, to = 15, from = 5))
+```
+
+```{r}
+print(rep(2, 5))
+```
+
+```{r}
+print(rep(x = 2, times = 5))
+```
+
+```{r}
+print(rep(5, 7))
+```
+```{r}
+print(rep(x = 5, times = 7))
+```
+
+```{r}
+print(rep(5, 7))
+```
+
+```{r}
+my_variable <- 12
+```
+
+```{r}
+print(my_variable)
+```
+
+```{r}
+my_variable <- 12
+my_variable <- 10
+print(my_variable)
+```
+
+```{r}
+x <- 4e-3
+print(x)
+
+```
+
+```{r}
+x <- TRUE
+print(x)
+```
+
+```{r}
+x <- "I am a variable"
+print(x)
+```
+
+```{r}
+x <- 1513871
+print(class(x))
+```
+
+```{r}
+x <- FALSE
+print(class(x))
+
+```
+
+```{r}
+x <- "hi there"
+print(class(x))
+```
+
+```{r}
+x <- 4
+print(x)
+```
+
+```{r}
+print(class(x))
+```
+
+```{r}
+cell_ID_1 <- "CX1"
+cell_ID_2 <- "CX2"
+treated_1 <- TRUE
+treated_2 <- FALSE
+cells_before_1 <- 5415
+cells_before_2 <- 8123
+cells_after_1 <- 1432
+cells_after_2 <- 7543
+```
+

@@ -1,0 +1,27 @@
+---
+title: "Brain_data"
+author: "Lizzie Rushworth"
+---
+
+No. genes with regionally elevated expression in human, pig and rat forebrain
+sum(16993, 16576, 16612, 16623)
+```{r}
+sum(180, 83, 57, 110)
+```
+
+Pig:
+```{r}
+sum(109, 31, 157, 45)
+```
+
+Mouse:
+```{r}
+sum(55, 185, 60, 98)
+```
+Human has most genes with regionally elevated expression
+
+```{r}
+# This code calculates the sum of two numbers
+1 + 9
+```
+
